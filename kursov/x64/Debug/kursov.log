@@ -1,0 +1,32 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  kursov.cpp
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(69,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(72,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(74,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(77,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(82,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(118,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(126,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(104,8): warning C4101: tmpCharInput: неиспользованная локальная переменная
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(162,7): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(174,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(175,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(180,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(181,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(185,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(195,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(199,6): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(245,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(259,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(260,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(265,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(280,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(307,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(308,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(323,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\kursov\kursov\kursov.cpp(347,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  kursov.vcxproj -> C:\Users\Иван\Desktop\jabb\fr\kursov\x64\Debug\kursov.exe
